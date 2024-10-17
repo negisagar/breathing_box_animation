@@ -29,7 +29,5 @@ const hold2Duration = 2000;   // Duration for Hold 2 (in milliseconds)
 ### New Feature
 I have added a pop-up that lets you control the timing of each phase, as well as a refresh button to reset the animation.
 
-## Demo
-----
-
+### Demo
 You can try the live demo here: [Breathing Animation Demo](https://negisagar.github.io/breathing_box_animation/)
